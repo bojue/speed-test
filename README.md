@@ -1,10 +1,11 @@
+
 # Web Speed Test
 
 一款双引擎的网站性能测试工具：服务器真实探测网络层 / 协议层，无头浏览器（Lighthouse）探测渲染层，站长和工程师都能用。
 
 [在线使用](https://www.nocokit.cn/speedtest/)
 
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/6cd2affe-d307-47f7-b277-2f5132775c60" />
+<img width="2557" height="1299" alt="截屏2026-09-23 15 18 01" src="https://github.com/user-attachments/assets/d2658bd9-7c49-4f78-a6d1-d612f2fba3fb" />
 
 ## 特性
 
