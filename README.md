@@ -5,7 +5,7 @@
 
 [在线使用](https://www.nocokit.cn/speedtest/)
 
-<img width="2557" height="1299" alt="截屏2026-09-23 15 18 01" src="https://github.com/user-attachments/assets/d2658bd9-7c49-4f78-a6d1-d612f2fba3fb" />
+<img width="1256" height="1294" alt="截屏2026-09-23 15 20 37" src="https://github.com/user-attachments/assets/379f7b98-e250-463b-ada6-1ccdb79e8928" />
 
 ## 特性
 
