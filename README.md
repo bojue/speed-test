@@ -2,7 +2,7 @@
 
 一款双引擎的网站性能测试工具：服务器真实探测网络层 / 协议层，无头浏览器（Lighthouse）探测渲染层，站长和工程师都能用。
 
-<img width="3024" height="1964" alt="Image" src="https://github.com/user-attachments/assets/757bbd89-5351-42b8-8916-00089dce9ab0" />
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/6cd2affe-d307-47f7-b277-2f5132775c60" />
 
 ## 特性
 
